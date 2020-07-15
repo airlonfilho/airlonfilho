@@ -1,5 +1,7 @@
 # :man_technologist: Airlon Filho
 
+### 📲 Contact me
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/airlonfilho/)](https://www.linkedin.com/in/airlonfilho/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5588996644768&text=Olá!)](https://api.whatsapp.com/send?phone=5588996644768&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/phyrllo)](https://t.me/phyrllo)
@@ -7,20 +9,8 @@
 
 ### ℹ️ Sobre mim / About me
 Olá meu nome é Airlon Filho, Desenvolvedor Frontend Web, aventureiro em UX/UI e apaixonado por tecnologia. 
-/ 
-Hi, i'm Airlon Filho, Frontend Web developer, adventurer in UX / UI and passionate about technology.
-
 </br>
-<div align="center">
-  
-  <img src="https://img.shields.io/github/last-commit/brunoorocha/questione-app?style=flat-square" />
-
-  <img src="https://img.shields.io/github/issues/brunoorocha/questione-app?style=flat-square" />
-  
-  <img src="https://img.shields.io/github/license/brunoorocha/questione-app?style=flat-square" />
-
-
-</div>
+Hi, i'm Airlon Filho, Frontend Web developer, adventurer in UX / UI and passionate about technology.
 
 ### 🛠 Conhecimentos / Knowledges
 
