@@ -5,10 +5,24 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/phyrllo)](https://t.me/phyrllo)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:airlonfilho@alu.ufc.br)](mailto:airlonfilho@alu.ufc.br)
 
-    Olá meu nome é Airlon Filho, Desenvolvedor Web. / Hi, i'm Airlon Filho, Web Developer.
+### ℹ️ Sobre mim / About me
+Olá meu nome é Airlon Filho, Desenvolvedor Frontend Web, aventureiro em UX/UI e apaixonado por tecnologia. 
+/ 
+Hi, i'm Airlon Filho, Frontend Web developer, adventurer in UX / UI and passionate about technology.
+
+</br>
+<div align="center">
+  
+  <img src="https://img.shields.io/github/last-commit/brunoorocha/questione-app?style=flat-square" />
+
+  <img src="https://img.shields.io/github/issues/brunoorocha/questione-app?style=flat-square" />
+  
+  <img src="https://img.shields.io/github/license/brunoorocha/questione-app?style=flat-square" />
 
 
-## Conhecimentos / Knowledges
+</div>
+
+### 🛠 Conhecimentos / Knowledges
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
