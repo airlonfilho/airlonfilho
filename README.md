@@ -27,7 +27,4 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-
 ---
