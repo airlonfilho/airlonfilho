@@ -1,4 +1,4 @@
-# :man_technologist: Airlon Filho
+https://github.com/airlonfilho/ATMConsultoria.git# :man_technologist: Airlon Filho
 
 ### 📲 Contact me
 
@@ -13,6 +13,10 @@ Olá meu nome é Airlon Filho, Desenvolvedor Frontend Web, aventureiro em UX/UI 
 Hi, i'm Airlon Filho, Frontend Web developer, adventurer in UX / UI and passionate about technology.
 
 ### 🛠 Conhecimentos / Knowledges
+
+[![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=Java&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-blue?style=flat-square&logo=Kotlin&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
