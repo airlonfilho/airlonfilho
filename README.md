@@ -12,7 +12,7 @@ Hi, i'm Airlon Filho, Frontend Web developer, adventurer in UX / UI and passiona
 
 ### 🛠 Conhecimentos / Knowledges
 
-[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white)]
 [![Kotlin](https://img.shields.io/badge/-Kotlin-blue?style=flat-square&logo=Kotlin&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
