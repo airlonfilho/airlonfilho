@@ -6,9 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:airlonfilho@alu.ufc.br)](mailto:airlonfilho@alu.ufc.br)
 
 ### ℹ️ Sobre mim / About me
-Olá meu nome é Airlon Filho, Desenvolvedor Frontend Web, aventureiro em UX/UI e apaixonado por tecnologia. 
+Olá, meu nome é Airlon Filho. Atualmente sou desenvolvedor Full Stack, atuando com as linguagens angular e java com spring boot. Sou estudante de Engenharia de Software na Universidade Federal do Ceará. Apaixonado por resolver problemas e melhorar a vida das pessoas por meio de softwares.
 </br>
-Hi, i'm Airlon Filho, Frontend Web developer, adventurer in UX / UI and passionate about technology.
+Hello, my name is Airlon Filho. I am currently a Full Stack developer, working with angular and java languages ​​with spring boot. I am a student of Software Engineering at the Federal University of Ceará. Passionate about solving problems and improving people's lives through software.
 
 ### 🛠 Conhecimentos / Knowledges
 
