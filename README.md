@@ -30,10 +30,8 @@ Hello, my name is Airlon Filho. I am currently a Full Stack developer, working w
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://www.linkedin.com/in/airlonfilho/)](https://www.linkedin.com/in/airlonfilho/)
 [![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=Php&link=https://www.linkedin.com/in/airlonfilho/)](https://www.linkedin.com/in/airlonfilho/)
 
-### 🛠 Estudando / Studying
 [![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=white&link=https://www.linkedin.com/in/airlonfilho/)](https://www.linkedin.com/in/airlonfilho/)
 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://www.linkedin.com/in/airlonfilho/)](https://www.linkedin.com/in/airlonfilho/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://www.linkedin.com/in/airlonfilho/)](https://www.linkedin.com/in/airlonfilho/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://www.linkedin.com/in/airlonfilho/)](https://www.linkedin.com/in/airlonfilho/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://www.linkedin.com/in/airlonfilho/)](https://www.linkedin.com/in/airlonfilho/)
