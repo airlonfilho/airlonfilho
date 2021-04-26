@@ -14,7 +14,7 @@ Hello, my name is Airlon Filho. I am currently a Full Stack developer, working w
 ### 🛠 Conhecimentos / Knowledges
 
 [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white&link=https://www.linkedin.com/in/airlonfilho/)](https://www.linkedin.com/in/airlonfilho/)
-[![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular&logoColor=white&link=https://www.linkedin.com/in/airlonfilho/)](https://www.linkedin.com/in/airlonfilho/)
+[![Angular](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.linkedin.com/in/airlonfilho/)](https://www.linkedin.com/in/airlonfilho/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.linkedin.com/in/airlonfilho/)](https://www.linkedin.com/in/airlonfilho/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white&link=https://www.linkedin.com/in/airlonfilho/)](https://www.linkedin.com/in/airlonfilho/)
 
