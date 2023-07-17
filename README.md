@@ -6,10 +6,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:airlonfilho@alu.ufc.br)](mailto:airlonfilho@alu.ufc.br)
 
 ### ℹ️ Sobre mim / About me
-Olá, meu nome é Airlon Filho. Atualmente sou desenvolvedor Full Stack, atuando com as linguagens angular e java com spring boot. Sou estudante de Engenharia de Software na Universidade Federal do Ceará. Apaixonado por resolver problemas e melhorar a vida das pessoas por meio de softwares.
+Olá, meu nome é Airlon Filho. Atualmente, sou Consultor de Soluções Digitais IV na Capgemini, atuando como Desenvolvedor Frontend em projetos para um cliente bancário. Minhas principais responsabilidades incluem o desenvolvimento de telas de acordo com protótipos predefinidos usando Angular, a criação de testes utilizando a ferramenta Jest, além de outras atividades cotidianas. Sou graduando em Engenharia de Software e estou cursando o último ano. Meu foco principal está nas seguintes tecnologias: CSS (Sass), JavaScript, TypeScript, Angular, Node e Jest.
+Anteriormente, trabalhei como Desenvolvedor na empresa júnior Include Júnior, onde tive a oportunidade de desenvolver sistemas utilizando tecnologias como PHP, Node e Bootstrap, entre outras. Em seguida, obtive uma segunda oportunidade como estagiário, focando em backend, onde atuei no desenvolvimento de APIs REST com Java e SpringBoot, além de realizar testes utilizando JUnit. Atualmente, estou concentrado no frontend, trabalhando com Angular, TypeScript, Jest e Node.
 </br>
 </br>
-Hello, my name is Airlon Filho. I am currently a Full Stack developer, working with angular and java languages ​​with spring boot. I am a student of Software Engineering at the Federal University of Ceará. Passionate about solving problems and improving people's lives through software.
+Hello, my name is Airlon Filho. I am currently a Digital Solutions Consultant IV at Capgemini, working as a Frontend Developer on projects for a bank client. My main responsibilities include the development of screens according to predefined prototypes using Angular, the creation of tests using the Jest tool, in addition to other daily activities. I'm majoring in Software Engineering and I'm in my last year. My main focus is on the following technologies: CSS (Sass), JavaScript, TypeScript, Angular, Node and Jest.
+Previously, I worked as a Developer at the junior company Include Júnior, where I had the opportunity to develop systems using technologies such as PHP, Node and Bootstrap, among others. Then, I got a second opportunity as an intern, focusing on the backend, where I worked on the development of REST APIs with Java and SpringBoot, in addition to performing tests using JUnit. I'm currently focused on the frontend, working with Angular, TypeScript, Jest and Node.
 
 ### 🛠 Conhecimentos / Knowledges
 
